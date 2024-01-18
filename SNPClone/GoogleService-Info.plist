@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD6e0kQMh8T5mi85AHK1gtfB4EKbdSh1D4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>485063273858</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.adriangarcia.SNPClone</string>
+	<key>PROJECT_ID</key>
+	<string>snpclone-7dda1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snpclone-7dda1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:485063273858:ios:0544cd4336bb2435b1f39b</string>
+</dict>
+</plist>
